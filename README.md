@@ -3,7 +3,7 @@
 Founder & CEO @ EDGE Football AI  
 Architecting AI-native football intelligence systems
 
-Building an AI-native football intelligence platform focused on structured player identity, longitudinal development tracking, and intelligent coaching systems.
+Building an AI-native football intelligence platform structured around player identity, longitudinal development, and intelligent coaching systems.
 
 ---
 
