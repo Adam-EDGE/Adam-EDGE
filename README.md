@@ -1,16 +1,27 @@
-## Hi there 👋
+# Adam Roberts
 
-<!--
-**Adam-EDGE/Adam-EDGE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder & CEO of EDGE Football AI
 
-Here are some ideas to get you started:
+Building an AI-native football intelligence platform focused on structured player identity, longitudinal development tracking, and intelligent coaching systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Current Focus
+
+- MVP architecture & launch
+- Ontology-first data modelling
+- AI-driven review engine
+- Longitudinal player intelligence
+- Secure, GDPR-aware system design
+
+---
+
+## Philosophy
+
+Structure before scale.  
+Clarity before complexity.  
+Systems before noise.
+
+---
+
+EDGE Football AI Ltd
